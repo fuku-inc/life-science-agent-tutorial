@@ -1,0 +1,112 @@
+site_name: ライフサイエンス研究者のためのAIエージェントチュートリアル
+site_description: 研究データベースを効率的に活用し、レベルに応じたAIエージェント活用法を学ぶ
+site_author: Science Aid
+site_url: https://yourusername.github.io/agent-tutorials/
+
+repo_name: agent-tutorials
+repo_url: https://github.com/yourusername/agent-tutorials
+
+theme:
+  name: material
+  language: ja
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: ダークモードに切り替え
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: ライトモードに切り替え
+  font:
+    text: Noto Sans JP
+    code: Roboto Mono
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.copy
+    - content.code.annotate
+
+plugins:
+  - search:
+      lang: ja
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+nav:
+  - ホーム: index.md
+  - はじめに:
+      - 概要: getting-started/index.md
+      - 前提条件: getting-started/prerequisites.md
+      - インストール: getting-started/installation.md
+  - チュートリアル:
+      - 概要: tutorials/index.md
+      - レベル1 - 既存エージェントの利用:
+          - 概要: tutorials/01-try-agents/index.md
+          - Manus: tutorials/01-try-agents/manus.md
+          - Operator: tutorials/01-try-agents/operator.md
+          - ChatGPT: tutorials/01-try-agents/chatgpt.md
+      - レベル2 - MCPでツールを追加:
+          - 概要: tutorials/02-mcp-server/index.md
+          - Claude Desktop: tutorials/02-mcp-server/claude-desktop.md
+          - ChatGPT Custom: tutorials/02-mcp-server/chatgpt-custom.md
+      - レベル3 - エージェントシステム構築:
+          - 概要: tutorials/03-build-agents/index.md
+          - ADK: tutorials/03-build-agents/adk.md
+          - AutoGen: tutorials/03-build-agents/autogen.md
+      - レベル4 - マルチエージェントシステム:
+          - 概要: tutorials/04-multi-agents/index.md
+  - リソース:
+      - 概要: resources/index.md
+      - ライフサイエンスDB: resources/databases.md
+      - ベンチマーク: resources/benchmarks.md
+      - 学習資料: resources/learning-materials.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/yourusername/agent-tutorials
+  generator: false

@@ -1,0 +1,83 @@
+# ライフサイエンス研究者のためのAIエージェントチュートリアル
+
+!!! info "Welcome!"
+    研究効率を飛躍的に向上させるAIエージェントの世界へようこそ！このチュートリアルでは、コードを書かなくても使える方法から、高度なシステム構築まで、あなたのレベルに合わせて学習できます。
+
+## 🎯 このチュートリアルの目的
+
+ライフサイエンス研究において、PubMed、UniProt、ChEMBLなどのデータベースは不可欠ですが、SQLクエリやAPIの知識がないと十分に活用できません。このチュートリアルでは：
+
+- 🔬 **研究データベースへの効率的なアクセス**方法を習得する
+- 🤖 **AIエージェントを使った自動化**で研究時間を大幅短縮する
+- 📊 **複数データベースの統合分析**を簡単に実現する
+- 🚀 **レベルに応じた活用方法**で無理なくステップアップする
+
+## 📚 学習パス
+
+### [1. はじめに](getting-started/index.md)
+AIエージェントとライフサイエンス研究での活用方法について理解します。
+
+- [前提条件](getting-started/prerequisites.md) - 必要な環境とツール（プログラミング経験不要！）
+- [インストール](getting-started/installation.md) - ツールのセットアップ手順
+
+### [レベル1: 既存エージェントの利用](tutorials/01-try-agents/index.md) 
+コードを書かずに、すぐに使えるAIエージェントで研究を効率化します。
+
+- [Manus](tutorials/01-try-agents/manus.md) - 画面操作でデータベース検索を自動化
+- [Operator](tutorials/01-try-agents/operator.md) - ブラウザでPubMed検索を自動実行
+- [ChatGPT](tutorials/01-try-agents/chatgpt.md) - 対話形式で研究データを分析
+
+### [レベル2: MCPでツールを追加](tutorials/02-mcp-server/index.md)
+研究に特化したツールをAIエージェントに追加します。
+
+- [Claude Desktop設定](tutorials/02-mcp-server/claude-desktop.md) - PubMed/UniProtツールの追加
+- [ChatGPT Custom設定](tutorials/02-mcp-server/chatgpt-custom.md) - カスタムアクションでDB連携
+
+### [レベル3: エージェントシステム構築](tutorials/03-build-agents/index.md)
+研究ワークフローに合わせたカスタムエージェントを作ります。
+
+- [ADK](tutorials/03-build-agents/adk.md) - ノーコードでエージェント開発
+- [AutoGen](tutorials/03-build-agents/autogen.md) - 対話型研究アシスタント構築
+
+### [レベル4: マルチエージェントシステム](tutorials/04-multi-agents/index.md)
+複数エージェントの連携で複雑な研究タスクを自動化します。（準備中）
+
+## 🔗 リソース
+
+研究に役立つ追加リソース：
+
+- [ライフサイエンスDB](resources/databases.md) - PubMed, UniProt, ChEMBLなどの活用法
+- [ベンチマーク](resources/benchmarks.md) - エージェントの性能評価基準
+- [学習資料](resources/learning-materials.md) - 参考文献とドキュメント
+
+## 🧬 研究活用例
+
+### 文献調査の自動化
+```
+"CRISPR-Cas9の最新応用例について、過去6ヶ月のPubMed論文を
+要約してください"
+```
+
+### タンパク質機能解析
+```
+"TP53遺伝子のUniProt情報と、関連する疾患情報をOMIMから
+統合してレポートを作成してください"
+```
+
+### 創薬ターゲット探索
+```
+"アルツハイマー病の新規治療標的について、ChEMBLから
+化合物情報を収集し、活性値で分類してください"
+```
+
+## 🚀 さあ、始めましょう！
+
+プログラミング経験がなくても大丈夫！あなたのレベルに合わせて学習を進められます。
+
+[▶️ はじめに](getting-started/index.md){ .md-button .md-button--primary }
+
+!!! tip "このチュートリアルで学べること"
+    - 文献調査の効率化方法
+    - 複数データベースの横断検索
+    - 研究データの自動収集と整理
+    - 定型作業の自動化
