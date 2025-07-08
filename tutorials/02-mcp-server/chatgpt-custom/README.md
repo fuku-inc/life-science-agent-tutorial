@@ -20,7 +20,7 @@ ChatGPT Customを使用することで、以下のような機能を実現でき
 
 ## ドキュメント
 
-詳細な設定方法は[MkDocsドキュメント](https://yourusername.github.io/agent-tutorials/tutorials/02-mcp-server/chatgpt-custom/)を参照してください。
+詳細な設定方法は[MkDocsドキュメント](https://fuku-inc.github.io/life-science-agent-tutorial/tutorials/02-mcp-server/chatgpt-custom/)を参照してください。
 
 ## 今後の予定
 

@@ -15,7 +15,7 @@
 
 ## ドキュメント
 
-詳細な使い方は[MkDocsドキュメント](https://yourusername.github.io/agent-tutorials/tutorials/01-try-agents/)を参照してください。
+詳細な使い方は[MkDocsドキュメント](https://fuku-inc.github.io/life-science-agent-tutorial/tutorials/01-try-agents/)を参照してください。
 
 ## 今後の予定
 

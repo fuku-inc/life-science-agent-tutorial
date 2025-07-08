@@ -90,4 +90,4 @@ AIエージェントの可能性を理解したら、次は必要な環境を準
 [▶️ 前提条件を確認する](prerequisites.md){ .md-button .md-button--primary }
 
 !!! note "サポートとコミュニティ"
-    質問や提案がある場合は、[GitHub Issues](https://github.com/yourusername/agent-tutorials/issues)でお気軽にお問い合わせください。
+    質問や提案がある場合は、[GitHub Issues](https://github.com/fuku-inc/life-science-agent-tutorial/issues)でお気軽にお問い合わせください。

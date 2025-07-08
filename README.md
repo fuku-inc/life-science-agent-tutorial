@@ -10,7 +10,7 @@
 
 ドキュメントはMkDocsで管理され、GitHub Pagesで公開されています。
 
-- [オンラインドキュメント](https://yourusername.github.io/agent-tutorials/)
+- [オンラインドキュメント](https://fuku-inc.github.io/life-science-agent-tutorial/)
 
 ## 🚀 クイックスタート
 

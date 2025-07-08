@@ -22,7 +22,7 @@
 
 ## ドキュメント
 
-詳細な構築方法は[MkDocsドキュメント](https://yourusername.github.io/agent-tutorials/tutorials/03-build-agents/)を参照してください。
+詳細な構築方法は[MkDocsドキュメント](https://fuku-inc.github.io/life-science-agent-tutorial/tutorials/03-build-agents/)を参照してください。
 
 ## 今後の予定
 

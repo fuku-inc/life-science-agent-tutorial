@@ -1,10 +1,10 @@
 site_name: ライフサイエンス研究者のためのAIエージェントチュートリアル
 site_description: 研究データベースを効率的に活用し、レベルに応じたAIエージェント活用法を学ぶ
 site_author: Science Aid
-site_url: https://yourusername.github.io/agent-tutorials/
+site_url: https://fuku-inc.github.io/life-science-agent-tutorial/
 
-repo_name: agent-tutorials
-repo_url: https://github.com/yourusername/agent-tutorials
+repo_name: life-science-agent-tutorial
+repo_url: https://github.com/fuku-inc/life-science-agent-tutorial
 
 theme:
   name: material
@@ -108,5 +108,5 @@ nav:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/yourusername/agent-tutorials
+      link: https://github.com/fuku-inc/life-science-agent-tutorial
   generator: false

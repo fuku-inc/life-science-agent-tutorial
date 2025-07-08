@@ -20,7 +20,7 @@ MCP Serverを使用することで、Claude Desktopに以下のような機能�
 
 ## ドキュメント
 
-詳細な設定方法は[MkDocsドキュメント](https://yourusername.github.io/agent-tutorials/tutorials/02-mcp-server/claude-desktop/)を参照してください。
+詳細な設定方法は[MkDocsドキュメント](https://fuku-inc.github.io/life-science-agent-tutorial/tutorials/02-mcp-server/claude-desktop/)を参照してください。
 
 ## 今後の予定
 
