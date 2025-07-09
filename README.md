@@ -74,10 +74,20 @@ Model Context Protocol (MCP) を使って、研究に特化したツールを追
 
 ## 📝 ライセンス
 
-このプロジェクトは [Creative Commons Attribution 4.0 International License (CC BY 4.0)](LICENSE) の下で公開されています。
+このプロジェクトは [Creative Commons Attribution 4.0 International License (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/) の下で公開されています。
 
 これは以下のことを意味します：
 - ✅ **自由に共有** - どのような媒体や形式でもコピー、再配布が可能
-- ✅ **自由に翻案** - リミックス、変更、別の作品のベースとして利用が可能
+- ✅ **自由に翻案** - リミックス、変更、別の作品のベースとして利用が可能  
 - ✅ **商用利用可能** - 営利目的での利用も可能
 - ⚠️ **帰属表示が必要** - 適切なクレジット表示とライセンスへのリンクが必要
+
+### 帰属表示の例
+
+このチュートリアルを利用する際は、以下のような帰属表示をお願いします：
+
+```
+本資料は「ライフサイエンス研究者のためのAIエージェントチュートリアル」
+https://github.com/fuku-inc/life-science-agent-tutorial
+を基に作成されました。CC BY 4.0ライセンスの下で利用しています。
+```
