@@ -110,3 +110,6 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/fuku-inc/life-science-agent-tutorial
   generator: false
+
+extra_javascript:
+  - https://unpkg.com/mermaid@10/dist/mermaid.min.js
