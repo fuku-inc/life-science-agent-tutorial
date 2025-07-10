@@ -91,7 +91,14 @@ nav:
   - はじめに:
       - getting-started/index.md
       - 前提条件: getting-started/prerequisites.md
-      - インストール: getting-started/installation.md
+      - インストール:
+          - getting-started/installation/index.md
+          - Manus: getting-started/installation/manus.md
+          - ChatGPT: getting-started/installation/chatgpt.md
+          - Operator: getting-started/installation/operator.md
+          - Claude Desktop: getting-started/installation/claude-desktop.md
+          - Docker: getting-started/installation/docker.md
+          - API Key設定: getting-started/installation/api-keys.md
   - チュートリアル:
       - tutorials/index.md
       - レベル1 - 既存エージェントの利用:
