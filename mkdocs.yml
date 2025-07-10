@@ -31,8 +31,14 @@ theme:
     - navigation.expand
     - navigation.path
     - navigation.top
+    - navigation.instant
+    - navigation.tracking
+    - navigation.indexes
+    - toc.follow
+    - toc.integrate
     - search.suggest
     - search.highlight
+    - search.share
     - content.tabs.link
     - content.code.copy
     - content.code.annotate
@@ -86,7 +92,9 @@ nav:
       - 概要: tutorials/index.md
       - レベル1 - 既存エージェントの利用:
           - 概要: tutorials/01-try-agents/index.md
-          - Manus: tutorials/01-try-agents/manus.md
+          - Manus:
+              - 概要: tutorials/01-try-agents/manus/index.md
+              - 光合成細菌のCO2固定経路: tutorials/01-try-agents/manus/photosynthesis-bacteria.md
           - Operator: tutorials/01-try-agents/operator.md
           - ChatGPT: tutorials/01-try-agents/chatgpt.md
       - レベル2 - MCPでツールを追加:
