@@ -125,5 +125,7 @@ extra:
       link: https://github.com/fuku-inc/life-science-agent-tutorial
   generator: false
 
+copyright: Copyright &copy; 2025 Science Aid株式会社. All rights reserved.
+
 extra_javascript:
   - https://unpkg.com/mermaid@10/dist/mermaid.min.js
