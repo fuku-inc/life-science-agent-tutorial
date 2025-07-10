@@ -46,7 +46,7 @@ AIエージェントを活用した研究を始める前に、必要な環境と
     - [ChatGPT](https://chat.openai.com/)でアカウント作成
 
 2. **Manus**
-    - Butterfly Effect の対話型AIサービス
+    - Manus AI の対話型AIサービス
     - [Manus](https://manus.im/invitation/HBKSQHDMMP7T)でアカウント作成
 
 ### レベル2以降: MCPでツールを追加・システム構築
