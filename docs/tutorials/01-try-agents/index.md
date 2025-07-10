@@ -29,12 +29,12 @@ AIエージェントを試してみたい、たまに使う程度の研究者
 - ウェブ検索、コード生成、文書作成、**ウェブページのデプロイ** など様々なタスクを自律的に実行する
 - **無料でも毎日300クレジット利用可能**
 
-### [ChatGPT](chatgpt.md)
+### [ChatGPT](chatgpt/index.md)
 - 対話型AIアシスタント
 - ウェブ検索、コード生成、文書作成などの様々なタスクを実行する
 - **Deep Research機能はChatGPT Plusプラン（\$20/月）、Teamプラン（\$25/月）ユーザーのみ利用可能**
 
-### [Operator](operator.md)
+### [Operator](operator/index.md)
 - ブラウザ操作特化型AIエージェント
 - **ウェブ検索** 、**ブラウザ操作** を行い、ページ閲覧やフォーム入力を繰り返し、自動で作業を行う
 - **OperatorはChatGPT Proプラン（\$200/月）ユーザーのみ利用可能**
@@ -47,8 +47,8 @@ AIエージェントを試してみたい、たまに使う程度の研究者
 ## 🚀 始め方
 
 1. まずは[Manus](manus/index.md)から始めることをお勧めします
-2. 次に[Operator](operator.md)で自動検索を体験
-3. 最後に[ChatGPT](chatgpt.md)でデータ分析を学習
+2. 次に[Operator](operator/index.md)で自動検索を体験
+3. 最後に[ChatGPT](chatgpt/index.md)でデータ分析を学習
 
 ## 📈 期待される成果
 

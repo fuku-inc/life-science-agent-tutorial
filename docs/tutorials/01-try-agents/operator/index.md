@@ -285,6 +285,6 @@ Operatorで自然言語による自動化をマスターしたら、次は[ChatG
 ---
 
 **関連リンク**:
-- [レベル1トップページに戻る](index.md)
-- [Manusチュートリアル](manus.md)
-- [ChatGPTチュートリアル](chatgpt.md)
+- [レベル1トップページに戻る](../index.md)
+- [Manusチュートリアル](../manus/index.md)
+- [ChatGPTチュートリアル](../chatgpt/index.md)

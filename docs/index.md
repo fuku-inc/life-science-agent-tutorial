@@ -23,21 +23,21 @@ AIエージェントとライフサイエンス研究での活用方法につい
 ### [レベル1: 既存エージェントの利用](tutorials/01-try-agents/index.md) 
 コードを書かずに、すぐに使えるAIエージェントで研究を効率化します。
 
-- [Manus](tutorials/01-try-agents/manus.md) - 画面操作でデータベース検索を自動化
-- [Operator](tutorials/01-try-agents/operator.md) - ブラウザでPubMed検索を自動実行
-- [ChatGPT](tutorials/01-try-agents/chatgpt.md) - 対話形式で研究データを分析
+- [Manus](tutorials/01-try-agents/manus/index.md) - 画面操作でデータベース検索を自動化
+- [Operator](tutorials/01-try-agents/operator/index.md) - ブラウザでPubMed検索を自動実行
+- [ChatGPT](tutorials/01-try-agents/chatgpt/index.md) - 対話形式で研究データを分析
 
 ### [レベル2: MCPでツールを追加](tutorials/02-mcp-server/index.md)
 研究に特化したツールをAIエージェントに追加します。
 
-- [Claude Desktop設定](tutorials/02-mcp-server/claude-desktop.md) - PubMed/UniProtツールの追加
-- [ChatGPT Custom設定](tutorials/02-mcp-server/chatgpt-custom.md) - カスタムアクションでDB連携
+- Claude Desktop設定 - PubMed/UniProtツールの追加（準備中）
+- ChatGPT Custom設定 - カスタムアクションでDB連携（準備中）
 
 ### [レベル3: エージェントシステム構築](tutorials/03-build-agents/index.md)
 研究ワークフローに合わせたカスタムエージェントを作ります。
 
-- [ADK](tutorials/03-build-agents/adk.md) - ノーコードでエージェント開発
-- [AutoGen](tutorials/03-build-agents/autogen.md) - 対話型研究アシスタント構築
+- ADK - ノーコードでエージェント開発（準備中）
+- AutoGen - 対話型研究アシスタント構築（準備中）
 
 ### [レベル4: マルチエージェントシステム](tutorials/04-multi-agents/index.md)
 複数エージェントの連携で複雑な研究タスクを自動化します。（準備中）
@@ -47,8 +47,8 @@ AIエージェントとライフサイエンス研究での活用方法につい
 研究に役立つ追加リソース：
 
 - [ライフサイエンスDB](resources/databases.md) - PubMed, UniProt, ChEMBLなどの活用法
-- [ベンチマーク](resources/benchmarks.md) - エージェントの性能評価基準
-- [学習資料](resources/learning-materials.md) - 参考文献とドキュメント
+- ベンチマーク - エージェントの性能評価基準（準備中）
+- 学習資料 - 参考文献とドキュメント（準備中）
 
 ## 🧬 研究活用例
 

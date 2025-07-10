@@ -347,7 +347,7 @@ Manusで収集した実験データ（遺伝子発現量）を統計解析し、
 ---
 
 **関連リンク**:
-- [レベル1トップページに戻る](index.md)
-- [Manusチュートリアル](manus.md)
-- [Operatorチュートリアル](operator.md)
-- [レベル2: MCPでツールを追加](../02-mcp-server/index.md)
+- [レベル1トップページに戻る](../index.md)
+- [Manusチュートリアル](../manus/index.md)
+- [Operatorチュートリアル](../operator/index.md)
+- [レベル2: MCPでツールを追加](../../02-mcp-server/index.md)
