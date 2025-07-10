@@ -105,7 +105,7 @@ nav:
           - tutorials/01-try-agents/index.md
           - Manus:
               - tutorials/01-try-agents/manus/index.md
-              - 光合成細菌のCO2固定経路: tutorials/01-try-agents/manus/photosynthesis-bacteria.md
+              - CO2固定を行う光合成細菌の系統・遺伝子解析: tutorials/01-try-agents/manus/photosynthesis-bacteria.md
           - Operator: 
               - tutorials/01-try-agents/operator/index.md
           - ChatGPT: 
