@@ -1,17 +1,17 @@
-# Manus - 画面操作でDB検索を自動化
-
-## 👥 対象者
-
-本チュートリアルは以下の方を対象としています：
-
-- プログラミング経験がない研究者
-- 日々の繰り返し作業を自動化したい方
-- AIエージェントを初めて使う方
-- データベース検索を効率化したい方
+# Manus
 
 ## 📌 概要
 
-Manusは、ブラウザ上の操作を録画・再生できるAIエージェントツールです。プログラミング不要で、マウスクリックやキーボード入力を記録し、同じ操作を自動的に繰り返すことができます。研究者が日々行うデータベース検索やデータ収集作業の自動化に最適です。
+Manusは、汎用型AIエージェントです。ブラウザ操作やコードの実行が可能です。
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+    <iframe src="https://www.youtube.com/embed/K27diMbCsuw" 
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen>
+    </iframe>
+</div>
 
 ### こんな悩みを解決します
 
