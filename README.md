@@ -2,35 +2,16 @@
 
 研究データベースを効率的に活用し、レベルに応じたAIエージェント活用法を学ぶチュートリアルです。
 
-## 🎯 プロジェクトの目的
+## 🎯 目的
 
-このプロジェクトは、コードを書くのが必ずしも得意ではないライフサイエンス研究者が、それぞれのレベルに応じた方法で自身の研究にAIエージェントを活用できるようになることを目的としています。PubMed、UniProt、ChEMBLなどの研究データベースを、SQLクエリやAPIリクエストなしで効率的に活用する方法を学びます。
+このチュートリアルはライフサイエンス研究者が、それぞれのレベルに応じた方法で自身の研究にAIエージェントを活用できるようになることを目的としています。
+
+PubMed、UniProt、ChEMBLなどの研究データベースを、SQLクエリやAPIリクエストなしで活用する方法から、複雑なAIエージェントシステムにより包括的な分析を行う手法を紹介します。
 
 ## 📚 ドキュメント
 
-ドキュメントはMkDocsで管理され、GitHub Pagesで公開されています。
+<a href="https://fuku-inc.github.io/life-science-agent-tutorial/" target="_blank">オンラインドキュメント</a>
 
-- [オンラインドキュメント](https://fuku-inc.github.io/life-science-agent-tutorial/)
-
-## 🚀 クイックスタート
-
-### ローカルでドキュメントを確認
-
-```bash
-# 依存関係のインストール
-pip install -r requirements-docs.txt
-
-# ドキュメントサーバーの起動
-mkdocs serve
-
-# ブラウザで http://localhost:8000 を開く
-```
-
-### ドキュメントのビルド
-
-```bash
-mkdocs build
-```
 
 ## 📖 チュートリアル構成
 
@@ -67,10 +48,11 @@ Model Context Protocol (MCP) を使って、研究に特化したツールを追
 - [The Landscape of Emerging AI Agent Architectures](https://www.deeplearning.ai/the-batch/the-landscape-of-emerging-ai-agent-architectures-for-reasoning-planning-and-tool-calling-a-survey/) - AIエージェントアーキテクチャの概観
 - [Model Context Protocol](https://modelcontextprotocol.io/) - MCPの公式ドキュメント
 - [LangChain Documentation](https://python.langchain.com/docs/get_started/introduction) - エージェント構築フレームワーク
+- [Coding Agents 101](https://devin.ai/agents101#introduction)
 
 ## 🤝 コントリビューション
 
-コントリビューションを歓迎します！詳細は[CONTRIBUTING.md](CONTRIBUTING.md)をご覧ください。
+コントリビューションを歓迎します！
 
 ## 📝 ライセンス
 
