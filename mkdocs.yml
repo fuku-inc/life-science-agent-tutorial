@@ -112,8 +112,10 @@ nav:
               - tutorials/01-try-agents/chatgpt/index.md
       - レベル2 - MCPでツールを追加:
           - tutorials/02-mcp-server/index.md
-          - Claude Desktop: tutorials/02-mcp-server/claude-desktop.md
-          - ChatGPT Custom: tutorials/02-mcp-server/chatgpt-custom.md
+          - Claude Desktop: 
+              - tutorials/02-mcp-server/claude-desktop/index.md
+              - PubMed検索: tutorials/02-mcp-server/claude-desktop/pubmed-search.md
+          - ChatGPTカスタムコネクタ: tutorials/02-mcp-server/chatgpt-custom.md
       - レベル3 - エージェントシステム構築:
           - tutorials/03-build-agents/index.md
           - ADK: tutorials/03-build-agents/adk.md
