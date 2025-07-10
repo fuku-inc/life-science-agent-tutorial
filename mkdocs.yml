@@ -26,7 +26,6 @@ theme:
     text: Noto Sans JP
     code: Roboto Mono
   features:
-    - navigation.tabs
     - navigation.sections
     - navigation.expand
     - navigation.path
@@ -35,7 +34,6 @@ theme:
     - navigation.tracking
     - navigation.indexes
     - toc.follow
-    - toc.integrate
     - search.suggest
     - search.highlight
     - search.share
