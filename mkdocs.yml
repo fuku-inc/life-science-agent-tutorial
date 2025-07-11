@@ -131,6 +131,9 @@ nav:
       - 学習資料: resources/learning-materials.md
 
 extra:
+  analytics:
+    provider: google
+    property: G-XPJ89C33X7
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/fuku-inc/life-science-agent-tutorial
