@@ -112,6 +112,7 @@ nav:
               - tutorials/01-try-agents/chatgpt/index.md
       - レベル2 - MCPでツールを追加:
           - tutorials/02-mcp-server/index.md
+          - MCPとは何か？: tutorials/02-mcp-server/what-is-mcp.md
           - Claude Desktop: 
               - tutorials/02-mcp-server/claude-desktop/index.md
               - PubMed検索: tutorials/02-mcp-server/claude-desktop/pubmed-search.md

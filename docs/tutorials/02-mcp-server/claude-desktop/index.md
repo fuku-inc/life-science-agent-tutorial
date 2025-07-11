@@ -37,7 +37,7 @@ MCPツールの設定は、`claude_desktop_config.json`ファイルで管理さ�
 #### ファイルの場所
 
 - **Windows**: `%APPDATA%\Claude\claude_desktop_config.json`
-- **macOS**: `~/Library/Application Support/Claude/claude_desktop_config.json`
+- **macOS**: `~/Library/Application\ Support/Claude/claude_desktop_config.json`
 
 ### 設定ファイルの基本構造
 
