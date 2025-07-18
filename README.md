@@ -10,7 +10,7 @@ PubMed、UniProt、ChEMBLなどの研究データベースを、SQLクエリやA
 
 ## 📚 ドキュメント
 
-<a href="https://scienec-aid.github.io/life-science-agent-tutorial/" target="_blank">オンラインドキュメント</a>
+<a href="https://science-aid.github.io/life-science-agent-tutorial/" target="_blank">オンラインドキュメント</a>
 
 
 ## 📖 チュートリアル構成
